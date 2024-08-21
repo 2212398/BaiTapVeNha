@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\obj\Debug\ComboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\obj\Debug\ComboBox.ComboBox.resources
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\Admin\Downloads\BTVN\BaiTapVeNha-master\ComboBox\obj\Debug\ComboBox.pdb
